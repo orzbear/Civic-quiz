@@ -1,202 +1,105 @@
-[
-  {
-    "question": "Which government agency would likely be most involved in providing aid and assistance to areas affected by severe weather and flash flooding?",
-    "options": [
-      "Department of Defense",
-      "Federal Emergency Management Agency (FEMA)",
-      "Environmental Protection Agency (EPA)",
-      "Department of Education"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which level of government would have primary responsibility for responding to a natural disaster within a state?",
-    "options": [
-      "Federal",
-      "State",
-      "Local",
-      "International"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "USAID is a government agency primarily focused on what area?",
-    "options": [
-      "Military defense",
-      "International development and humanitarian assistance",
-      "Environmental protection",
-      "Domestic law enforcement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A tariff is a tax imposed on what?",
-    "options": [
-      "Domestically produced goods",
-      "Imported goods",
-      "Exported goods",
-      "Services"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Trade groups warning about the impact of tariffs on consumer goods are engaging in what activity?",
-    "options": [
-      "Lobbying",
-      "Judicial review",
-      "Direct action",
-      "Civil disobedience"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What branch of government is responsible for confirming presidential appointments to agencies like USAID?",
-    "options": [
-      "Executive",
-      "Legislative",
-      "Judicial",
-      "None of the above"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If a presidential appointee is fired, which branch of government can potentially investigate the reasons for the dismissal?",
-    "options": [
-      "Executive",
-      "Legislative",
-      "Judicial",
-      "All of the above"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A 'scoop' in journalism refers to what?",
-    "options": [
-      "A story that is widely reported",
-      "A story that is based on opinion",
-      "A story that is reported first by a particular news outlet",
-      "A story about food"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Measles is a preventable disease through what?",
-    "options": [
-      "Exercise",
-      "Vaccination",
-      "Antibiotics",
-      "Special diets"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Public health initiatives, like vaccination programs, are often overseen by which level of government?",
-    "options": [
-      "Federal",
-      "State",
-      "Local",
-      "All of the above"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the primary role of the Federal Trade Commission (FTC)?",
-    "options": [
-      "Protecting consumers and promoting competition",
-      "Regulating the stock market",
-      "Managing national parks",
-      "Overseeing elections"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If a product's price increases due to tariffs, this is an example of what economic principle?",
-    "options": [
-      "Supply and demand",
-      "Opportunity cost",
-      "Scarcity",
-      "All of the above"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The NCAA (mentioned in the Duke headline) is a governing body for what?",
-    "options": [
-      "Professional sports",
-      "College sports",
-      "High school sports",
-      "Olympic sports"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which amendment to the U.S. Constitution guarantees freedom of the press (relevant to the news headlines)?",
-    "options": [
-      "First Amendment",
-      "Second Amendment",
-      "Fourth Amendment",
-      "Fifth Amendment"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which government agency might be involved in investigating a potential second measles-related death?",
-    "options": [
-      "Centers for Disease Control and Prevention (CDC)",
-      "Federal Bureau of Investigation (FBI)",
-      "Central Intelligence Agency (CIA)",
-      "National Security Agency (NSA)"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In a democratic society, the role of the press is often described as what?",
-    "options": [
-      "The fourth branch of government",
-      "The voice of the people",
-      "A watchdog",
-      "All of the above"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The 'Final Four' mentioned in the Duke headline refers to a stage in what type of competition?",
-    "options": [
-      "Tournament",
-      "League play",
-      "Exhibition match",
-      "Qualifying round"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which branch of government is responsible for creating laws related to international trade?",
-    "options": [
-      "Executive",
-      "Legislative",
-      "Judicial",
-      "All of the above"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Intellectual property, such as video game characters, is protected by what type of law?",
-    "options": [
-      "Copyright law",
-      "Criminal law",
-      "Contract law",
-      "Family law"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The 'UFC' mentioned in one headline stands for what?",
-    "options": [
-      "Ultimate Fighting Championship",
-      "United Farmers Cooperative",
-      "United Football Conference",
-      "Underwater Fishing Club"
-    ],
-    "answer": 0
-  }
-]
+{
+  "date": "2025-04-27",
+  "questions": [
+    {
+      "question": "Which former US president was given a prominent seat at the recent papal funeral?",
+      "options": [
+        "Barack Obama",
+        "Donald Trump",
+        "George W. Bush",
+        "Bill Clinton"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Iranian city was recently affected by a large explosion and fire, according to state media?",
+      "options": [
+        "Tehran",
+        "Isfahan",
+        "Bandar Abbas",
+        "Shiraz"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which prominent figure associated with the Jeffrey Epstein case recently passed away?",
+      "options": [
+        "Ghislaine Maxwell",
+        "Virginia Giuffre",
+        "Alan Dershowitz",
+        "Alexander Acosta"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which former DOJ policy regarding subpoenas for journalists was recently revoked?",
+      "options": [
+        "Protection against revealing sources",
+        "Limitations on the use of gag orders",
+        "Restrictions on subpoenaing journalists",
+        "Increased transparency in leak investigations"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which world leader, among others, attended the recent funeral of Pope Francis?",
+      "options": [
+        "Joe Biden",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyy",
+        "Xi Jinping"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which NFL quarterback's draft status was a subject of discussion and potential overreaction related to his father's influence?",
+      "options": [
+        "Bryce Young",
+        "C.J. Stroud",
+        "Anthony Richardson",
+        "Shedeur Sanders"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which branch of government acted to block a Trump executive order concerning federal unions?",
+      "options": [
+        "Legislative",
+        "Executive",
+        "Judicial",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Recent scientific news included discoveries related to which celestial body?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "The Moon",
+        "Venus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What type of regular feature commonly appears in newspapers like The Globe and Mail?",
+      "options": [
+        "Stock market predictions",
+        "Horoscopes",
+        "Weather forecasts",
+        "Obituary notices"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which former White House official is mentioned in connection to a policy change affecting journalists?",
+      "options": [
+        "Kellyanne Conway",
+        "Sean Spicer",
+        "Sarah Huckabee Sanders",
+        "Pam Bondi"
+      ],
+      "answer": 3
+    }
+  ]
+}
